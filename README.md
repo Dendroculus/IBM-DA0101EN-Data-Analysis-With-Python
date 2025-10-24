@@ -1,10 +1,11 @@
 <h1 align="center">📊 My Journey Through IBM's DA0101EN: Data Analysis with Python 🐍</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python-blue?style=for-the-badge&logo=ibm" alt="IBM Course Badge">
-  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status: In Progress">
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language: Python">
+  <img src="https://img.shields.io/badge/IBM_Data_Analysis_with_Python-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Course">
+  <img src="https://img.shields.io/badge/Status-In_Progress-FACC15?style=flat-square" alt="Status: In Progress">
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Language: Python">
 </p>
+
 
 <p align="center">
   <em>Welcome! This repository documents my learning journey, notes, projects, and resources from the IBM DA0101EN "Data Analysis with Python" course. Follow along as I build skills in analyzing data using Python's powerful libraries!</em>

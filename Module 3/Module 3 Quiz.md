@@ -71,5 +71,5 @@ If X equals Y exactly, there is a perfect positive linear relationship; Pearson'
 ---
 
 <p align="center">
-  <em>Good luck — push this README.md to your repo to keep your Module 3 answers handy!</em> 🎉
+  <em>Hope this helps!</em> 
 </p>

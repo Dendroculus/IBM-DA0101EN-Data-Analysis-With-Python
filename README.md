@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/IBM_Data_Analysis_with_Python-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Course">
-  <img src="https://img.shields.io/badge/Status-In_Progress-FACC15?style=flat-square" alt="Status: Completed">
+  <img src="https://img.shields.io/badge/Status-Completed-FACC15?style=flat-square" alt="Status: Completed">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Language: Python">
 </p>
 
